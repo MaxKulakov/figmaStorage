@@ -1,0 +1,44 @@
+.thumbnail-img {
+    /* width: 240px; */
+    /* height: auto; */
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.profile-img {
+    width: 32px;
+    border-radius: 16px;
+}
+
+.badge {
+    text-transform: uppercase;
+}
+
+p {
+    color: #6C757D !important;
+}
+
+a {
+    color: #212529 !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: #6C757D !important;
+    /* text-decoration: underline; */
+}
+
+
+/* tags color */
+.red7-color {
+    background-color: #ED1C24 !important;
+}
+
+.ms-color {
+    background-color: #E14313 !important;
+}
+
+.star-color{
+    background-color: #FF5722 !important;
+}
+/* tags color */
